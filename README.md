@@ -1,2 +1,3 @@
 # helmfile-yaml-yml
-Example for a helmfile bug
+
+Just run `helmfile apply` to get error message: `in ./helmfile.yaml: [assertion failed: unexpected dir entry : it mnust be a abs path]`
